@@ -1,0 +1,68 @@
+body {
+    background: rgb(38, 39, 41);
+}
+
+.kotisivu {
+    width: 1200px;
+    height: 700px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgb(129, 177, 169);
+}
+
+.sivu1 h1 {
+    margin-left: 35%;
+}
+
+.sivu1 h2 {
+    margin-top: 100px;
+    margin-left: 25%;
+    color: #fff;
+}
+
+#tiedot {
+    margin-top: 100px;
+    margin-left: 32%;
+    color: #fff;
+}
+
+.but1 {
+    width: 200px;
+    height: 62.5px;
+    background: rgb(172, 145, 109);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.but2 {
+    width: 100px;
+    height: 62.5px;
+    background: rgb(172, 145, 109);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+button {
+    width: 80px;
+    height: 40px;
+    border-radius: 2px;
+    margin-left: 12px;
+    margin-top: 12px;
+    background: rgb(38, 198, 204);
+}
+
+img {
+    width: 120px;
+    height: 70px;
+    margin-top: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
