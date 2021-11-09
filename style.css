@@ -66,3 +66,11 @@ img {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.link1 {
+    width: 323px;
+    height: 40px;
+    background-color: chartreuse;
+    font-size: larger;
+    margin-left: 440px;
+}
